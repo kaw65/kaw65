@@ -5,7 +5,7 @@
 
 **❤I love programing!**
 <div align="center">
-  <img src="https://media.tenor.com/cAxdEo0EsPkAAAAM/pixel-art.gif" height="350em" width="100%"/>
+  <img src="https://media.tenor.com/cAxdEo0EsPkAAAAM/pixel-art.gif" height="10%" width="100%"/>
 </div>
 
 # **📚Estudando:**
@@ -16,5 +16,5 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 # **📊Estatísticas:**
 <div align="center">
-  <img height="350em" width="100%" src="https://github-readme-stats.vercel.app/api?username=kaw65&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="10%" width="100%" src="https://github-readme-stats.vercel.app/api?username=kaw65&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </div>
