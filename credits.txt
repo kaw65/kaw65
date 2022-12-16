@@ -3,3 +3,5 @@
 •Github stats = https://github.com/anuraghazra/github-readme-stats
 
 •Terno gif = https://tenor.com/pt-BR/view/aesthetic-purple-city-pixel-gif-20439512
+
+•Badges = https://dev.to/envoy_/150-badges-for-github-pnk
