@@ -1,7 +1,7 @@
 # **Olá, me chamo kawty👾**
-**🎵Desenvolvedor fullstack junior**
+**🔮Desenvolvedor fullstack junior**
 
-**🎵Ele/dele**
+**🔮Ele/dele**
 
 **💜I love programing!**
 <div align="center">
