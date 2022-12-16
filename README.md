@@ -1,9 +1,9 @@
 # **Olá, me chamo kawty👾**
-**👾Desenvolvedor fullstack junior**
+# **👾Desenvolvedor fullstack junior**
 
-**👾Ele/dele**
+# **👾Ele/dele**
 
-**💜I love programing!**
+# **💜I love programing!**
 <div align="center">
   <img src="https://media.tenor.com/S5JPPusvSgUAAAAd/aesthetic-purple.gif" width="100%"/>
 </div>
@@ -17,4 +17,6 @@
 # **☂️Estatísticas:**
 <div align="center">
   <img height="10%" width="100%" src="https://github-readme-stats.vercel.app/api?username=kaw65&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  </div>
+ 
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+ </div>
