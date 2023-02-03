@@ -1,5 +1,6 @@
 # **Olá, me chamo kawty👾**
 **👾Desenvolvedor fullstack junior**
+**🎵Ele/dele**
 # **💜I love programing!**
 <div align="center">
   <img src="https://media.tenor.com/S5JPPusvSgUAAAAd/aesthetic-purple.gif" width="100%"/>
