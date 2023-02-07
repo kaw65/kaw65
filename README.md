@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=purple"/> <img src="https://img.shields.io/badge/redis-000000.svg?&style=for-the-badge&logo=redis&logoColor=purple"/> <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=purple"/>
 
 
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=purple"/> <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=purple"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=purple"/> <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=purple"/> <img src="https://img.shields.io/badge/Bitbucket-000000?style=for-the-badge&logo=bitbucket&logoColor=purple">
 # **☂️Estatísticas:**
 <div align="center">
   <img height="10%" width="100%" src="https://github-readme-stats.vercel.app/api?username=kaw65&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
