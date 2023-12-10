@@ -1,5 +1,5 @@
 # **Olá, me chamo kawty👾**
-# **👾Desenvolvedor fullstack junior (ou quase..)**
+# **👾Desenvolvedor fullstack junior**
 # **💜I love programing!**
 <div align="center">
   <img src="https://media.tenor.com/S5JPPusvSgUAAAAd/aesthetic-purple.gif" width="100%"/>
@@ -11,6 +11,7 @@
 
 
 <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=purple"/> <img src="https://img.shields.io/badge/redis-000000.svg?&style=for-the-badge&logo=redis&logoColor=purple"/> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=purple"/>
+<img src="https://img.shields.io/badge/Cassandra-000000?style=for-the-badge&logo=apache%20cassandra&logoColor=purple"/>
 
 
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=purple"/> <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=purple"/> <img src="https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=purple"/>
